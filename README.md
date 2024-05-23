@@ -1,4 +1,4 @@
-This is a repository for a Hackathon.
+This is a repository for a university compulsory Hackathon.
 
 For all information:
 
